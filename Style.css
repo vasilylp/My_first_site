@@ -1,0 +1,40 @@
+@font-face {
+              font-family:"face-font" ;
+              src: url("Fonts/d9464-arkhip_font.ttf");
+}
+@font-face {
+              font-family: "teddy-bear";
+              src: url("Fonts/teddy-bear.ttf");
+}
+body{
+              background-color: rgb(218, 206, 189);
+}
+h1{
+              color: #1509a1;
+              font-family: "face-font", sans-serif;
+              margin: 10px 10px 10px 250px;
+}
+h2{
+              color: blue;
+}
+a{
+              color: crimson;
+}
+img{
+              width: 300px;
+              border: 4px solid rgb(209, 18, 18);
+              margin: 10px 10px 10px 300px;
+}
+.Name_foto{
+              font-size: 1.5rem;
+              color: rgb(197, 16, 194);
+              font-family: "teddy-bear", sans-serif;
+              margin: 10px 10px 10px 300px;
+}
+.call{
+              color: crimson;
+              font-size: x-large;
+}
+p{
+              font-size: large;
+}
